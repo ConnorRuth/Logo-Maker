@@ -30,7 +30,7 @@ const questions = [
         name: "fileName"
     }
 ]
-
+//gets the data fed through the classes and functions to generate an svg file and write it to the examples folder
 function writeToFile(data){
     let logo = logoGen(data);
     fs.writeFile(`./examples/${data.fileName}.svg`, logo, (err) =>
