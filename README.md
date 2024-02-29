@@ -20,16 +20,16 @@
 8.[Video](##-Video)
 
 ## Description
-I would like users to be able to answer a series of uestions to generate an svg file
+I would like users to be able to answer a series of questions to generate an svg file.
 
 ## Installation
-requires nodejs to be installed and to run npm i to install inquirer
+Requires nodejs to be installed and to run npm i to install inquirer.
 
 ## Usage
-once the user  has everything downloaded they should be able to open their terminal run "node index.js" and a series of question will  be asked of the user such as color of the shape and text 3 letters to be in their svg and a file name.
+Once the user has everything downloaded they should be able to open their terminal run "node index.js" and a series of question will be asked of the user such as color of the shape and text 3 letters to be in their svg and a file name.
 
 ## Contributions
-none at this time
+None at this time
 
 ## Tests
 Used jest to test each of the answers to each object created to represent the selectable shapes
@@ -41,5 +41,5 @@ You can find my github at https://github.com/connorruth
   Distributed under the MIT License. See https://opensource.org/licenses/MIT for more information
 
 ## Video
-tutorial and project explanation done for edx bootcamp:
+Tutorial and project explanation done for edx bootcamp:
 https://drive.google.com/file/d/14PqHIz6VNHD2RR8Yn-qh5LVrZaOUEdXC/view
